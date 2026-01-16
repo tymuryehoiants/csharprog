@@ -1,0 +1,6 @@
+E:\0nikc#\pz2\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\0nikc#\pz2\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\0nikc#\pz2\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\0nikc#\pz2\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\0nikc#\pz2\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\0nikc#\pz2\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

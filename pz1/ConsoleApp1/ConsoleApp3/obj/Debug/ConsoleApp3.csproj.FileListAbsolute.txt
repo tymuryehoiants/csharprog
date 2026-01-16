@@ -1,0 +1,7 @@
+E:\0nikc#\pz1\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+E:\0nikc#\pz1\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\0nikc#\pz1\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\0nikc#\pz1\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\0nikc#\pz1\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\0nikc#\pz1\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\0nikc#\pz1\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

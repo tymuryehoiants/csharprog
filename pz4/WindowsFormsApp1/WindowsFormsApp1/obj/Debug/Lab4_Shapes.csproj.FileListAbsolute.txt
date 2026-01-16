@@ -1,0 +1,10 @@
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lab4_Shapes.csproj.AssemblyReference.cache
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lab4_Shapes.Form1.resources
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lab4_Shapes.csproj.GenerateResource.cache
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lab4_Shapes.csproj.CoreCompileInputs.cache
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\0nikc#\pz4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_Shapes", "WindowsFormsApp1\Lab4_Shapes.csproj", "{519C7D05-28BC-4BF6-923C-153AD164A010}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D87C39C-5D57-4EF6-BD90-9B781678D781}"
+	ProjectSection(SolutionItems) = preProject
+		Figures.cs = Figures.cs
+		ShapeContainer.cs = ShapeContainer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519C7D05-28BC-4BF6-923C-153AD164A010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519C7D05-28BC-4BF6-923C-153AD164A010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519C7D05-28BC-4BF6-923C-153AD164A010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519C7D05-28BC-4BF6-923C-153AD164A010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C051EADE-A1C4-49F3-9F1A-3DBF588E27FF}
+	EndGlobalSection
+EndGlobal
